@@ -1,6 +1,4 @@
-<img width="100px" src="https://uwebpro.dev/images/logo_background.jpg" align="right" />
-
-# Hi, I'm Will, the developer behind UWebPro
+# Hi, I'm Will, a Senior PHP Developer in the medical industry
 
 I'm PHP Engineer specialising in Laravel & Symfony, creating packages to make Frameworks like WordPress more object-oriented in the hope for cleaner development
 
@@ -9,13 +7,19 @@ My focus is all around speed. This includes packages for faster development and 
 ### My Tech Stack
 
 ![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
+![Laravel](http://img.shields.io/badge/-Laravel-orange?style=flat-square&logo=Laravel&logoColor=white)
+![Symfony](http://img.shields.io/badge/-Symfony-black?style=flat-square&logo=Symfony&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySql-F29111?style=flat-square&logo=mysql&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-VueJS-34495E?style=flat-square&logo=Node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MongoDB](http://img.shields.io/badge/-MongoDB-25942c?style=flat-square&logo=mongodb&logoColor=black)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=000000&labelColor=%231572B6&color=%231572B6)
 ![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 #### Other Skills
+![Vue](https://img.shields.io/badge/-Vue-34495E?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
