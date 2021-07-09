@@ -13,7 +13,6 @@ My focus is all around speed. This includes packages for faster development and 
 ![MongoDB](http://img.shields.io/badge/-MongoDB-25942c?style=flat-square&logo=mongodb&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=000000&labelColor=%231572B6&color=%231572B6)
-![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 #### Other Skills
 ![Vue](https://img.shields.io/badge/-Vue-34495E?style=flat-square&logo=vue.js)
