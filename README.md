@@ -1,9 +1,5 @@
 # Hi, I'm Will, a Senior PHP Developer in the medical industry
 
-I'm PHP Engineer specialising in Laravel & Symfony, creating packages to make Frameworks like WordPress more object-oriented in the hope for cleaner development
-
-My focus is all around speed. This includes packages for faster development and streamlined lightweight code for fast results
-
 ### My Tech Stack
 
 ![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
