@@ -1,4 +1,4 @@
-# Hi, I'm Will, a Senior PHP Developer in the medical industry
+# Hi, I'm Will, a Senior Solutions Architect in the Digital Ink Space
 
 ### My Tech Stack
 
