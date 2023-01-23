@@ -2,16 +2,18 @@
 
 ### My Tech Stack
 
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=000000&labelColor=%231572B6&color=%231572B6)
+![Vue](https://img.shields.io/badge/-Vue-34495E?style=flat-square&logo=vue.js)
+
+![MySQL](http://img.shields.io/badge/-MySql-F29111?style=flat-square&logo=mysql&logoColor=ffffff)
+![MongoDB](http://img.shields.io/badge/-MongoDB-25942c?style=flat-square&logo=mongodb&logoColor=black)
+
+
+#### Other Skills
 ![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-orange?style=flat-square&logo=Laravel&logoColor=white)
 ![Symfony](http://img.shields.io/badge/-Symfony-black?style=flat-square&logo=Symfony&logoColor=white)
-![MySQL](http://img.shields.io/badge/-MySql-F29111?style=flat-square&logo=mysql&logoColor=ffffff)
-![MongoDB](http://img.shields.io/badge/-MongoDB-25942c?style=flat-square&logo=mongodb&logoColor=black)
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=000000&labelColor=%231572B6&color=%231572B6)
-
-#### Other Skills
-![Vue](https://img.shields.io/badge/-Vue-34495E?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
