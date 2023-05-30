@@ -1,4 +1,4 @@
-# Hi, I'm Will, a Senior Solutions Architect in the Digital Ink Space
+# Hi, I'm Will, a Senior Solutions Architect at Wacom
 
 ### My Tech Stack
 
