@@ -1,6 +1,6 @@
 # Hi, I'm Will, a Senior Solutions Architect at Wacom
 
-### My Tech Stack
+### My Code
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
@@ -11,17 +11,6 @@
 ![MongoDB](http://img.shields.io/badge/-MongoDB-25942c?style=flat-square&logo=mongodb&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-white?style=flat-square&logo=postgresql)
 
-
-#### Other Skills
-![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
-![Laravel](http://img.shields.io/badge/-Laravel-orange?style=flat-square&logo=Laravel&logoColor=white)
-![Symfony](http://img.shields.io/badge/-Symfony-black?style=flat-square&logo=Symfony&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 #### Social
 
