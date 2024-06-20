@@ -1,6 +1,15 @@
 # Hi, I'm Will, a Senior Solutions Architect at Wacom
 
-### My Code
+### Architecture
+- Cloud Architecture
+- Microservices
+- Design Patterns
+- Serverless
+- Event Sourcing
+- Data Warehousing
+- Data Lakes
+
+### My Code Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
@@ -11,7 +20,15 @@
 ![MongoDB](http://img.shields.io/badge/-MongoDB-25942c?style=flat-square&logo=mongodb&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-white?style=flat-square&logo=postgresql)
 
+#### Other Skills
+![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-123?style=flat-square&logo=Java&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
+![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff)
+
 
 #### Social
 
-[[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/will-percey-196b297a/)](https://www.linkedin.com/in/willpercey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/will-percey-196b297a/)
