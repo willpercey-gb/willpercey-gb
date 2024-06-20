@@ -14,4 +14,4 @@
 
 #### Social
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/will-percey-196b297a/)
+[[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/will-percey-196b297a/)](https://www.linkedin.com/in/willpercey/)
