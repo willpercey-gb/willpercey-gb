@@ -22,7 +22,6 @@
 
 #### Other Skills
 ![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-123?style=flat-square&logo=Java&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
