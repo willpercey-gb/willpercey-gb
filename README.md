@@ -1,13 +1,20 @@
 # Hi, I'm Will, a Senior Solutions Architect at Wacom
 
 ### Architecture
-- Cloud Architecture
+- Platform Engineering (DevSecOps)
+- IaC (Cloudformation, Crossplane)
 - Microservices
 - Design Patterns
+- Asynchronous APIs
 - Serverless
 - Event Sourcing
 - Data Warehousing
 - Data Lakes
+- Low Code Automation Systems (Boomi)
+- Machine Learning & AI
+- Load/Stress Testing
+- Pen-testing
+- UML (PUML) - C4 Model
 
 ### My Code Stack
 
