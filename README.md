@@ -1,6 +1,8 @@
 # Hi, I'm Will, a Senior Solutions Architect at everyLIFE Technologies
 
 ### Architecture
+- Machine Learning, AI
+- LLMs - RAG, MCP, Generative AI
 - Platform Engineering (DevSecOps)
 - IaC (Cloudformation, Crossplane)
 - Microservices
@@ -11,7 +13,6 @@
 - Data Warehousing
 - Data Lakes
 - Low Code Automation Systems (Boomi)
-- Machine Learning & AI
 - Load/Stress Testing
 - Pen-testing
 - UML (PUML) - C4 Model
