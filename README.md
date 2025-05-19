@@ -1,4 +1,4 @@
-# Hi, I'm Will, a Senior Solutions Architect at Wacom
+# Hi, I'm Will, a Senior Solutions Architect at everyLIFE Technologies
 
 ### Architecture
 - Platform Engineering (DevSecOps)
