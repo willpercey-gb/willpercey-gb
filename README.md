@@ -2,7 +2,7 @@
 
 ### Architecture
 - Machine Learning, AI
-- LLMs - RAG, MCP, Generative AI
+- LLMs - RAG, MCP, Generative AI, Agentic AI
 - Platform Engineering (DevSecOps)
 - IaC (Cloudformation, Crossplane)
 - Microservices
