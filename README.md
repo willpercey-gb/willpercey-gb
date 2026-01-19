@@ -1,4 +1,4 @@
-# Hi, I'm Will, a Senior Solutions Architect at everyLIFE Technologies
+# Hi, I'm Will, an AI/ML Solutions Architect
 
 ### Architecture
 - Machine Learning, AI
@@ -18,8 +18,8 @@
 - UML (PUML) - C4 Model
 
 ### My Code Stack
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=000000&labelColor=%231572B6&color=%231572B6)
 ![Vue](https://img.shields.io/badge/-Vue-34495E?style=flat-square&logo=vue.js)
@@ -29,10 +29,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-white?style=flat-square&logo=postgresql)
 
 #### Other Skills
-![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![PHP](http://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
-![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff)
 
 
